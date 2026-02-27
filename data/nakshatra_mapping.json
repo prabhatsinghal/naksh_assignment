@@ -1,0 +1,164 @@
+{
+  "Ashwini": {
+    "meaning": "Fast-moving, healing, beginnings.",
+    "ruling_planet": "Ketu",
+    "traits": "Quick, energetic, pioneering spirit, natural healers.",
+    "symbol": "Horse's head"
+  },
+  "Bharani": {
+    "meaning": "Strong willpower, transformation, carrying burdens.",
+    "ruling_planet": "Venus",
+    "traits": "Determined, creative, intense, morally strong.",
+    "symbol": "Yoni (womb)"
+  },
+  "Krittika": {
+    "meaning": "Fiery energy, truth-seeker, protector, sharp.",
+    "ruling_planet": "Sun",
+    "traits": "Sharp, critical, ambitious, transformative.",
+    "symbol": "Razor or flame"
+  },
+  "Rohini": {
+    "meaning": "Growth, fertility, beauty, abundance.",
+    "ruling_planet": "Moon",
+    "traits": "Sensuous, creative, nurturing, materialistic.",
+    "symbol": "Chariot or ox cart"
+  },
+  "Mrigashira": {
+    "meaning": "Searching, curious, gentle, restless.",
+    "ruling_planet": "Mars",
+    "traits": "Curious mind, gentle nature, always seeking.",
+    "symbol": "Deer's head"
+  },
+  "Ardra": {
+    "meaning": "Stormy, intense, transformation through destruction.",
+    "ruling_planet": "Rahu",
+    "traits": "Sharp intellect, emotional turbulence, renewal.",
+    "symbol": "Teardrop or diamond"
+  },
+  "Punarvasu": {
+    "meaning": "Return of light, renewal, goodness restored.",
+    "ruling_planet": "Jupiter",
+    "traits": "Optimistic, philosophical, resilient, kind.",
+    "symbol": "Quiver of arrows"
+  },
+  "Pushya": {
+    "meaning": "Nourishment, support, most auspicious nakshatra.",
+    "ruling_planet": "Saturn",
+    "traits": "Nurturing, responsible, generous, spiritually inclined.",
+    "symbol": "Flower or udder of cow"
+  },
+  "Ashlesha": {
+    "meaning": "Clinging, mystical, serpentine energy.",
+    "ruling_planet": "Mercury",
+    "traits": "Perceptive, strategic, emotionally complex.",
+    "symbol": "Coiled serpent"
+  },
+  "Magha": {
+    "meaning": "Power, royalty, ancestral pride, throne.",
+    "ruling_planet": "Ketu",
+    "traits": "Authoritative, proud, traditional, ambitious.",
+    "symbol": "Royal throne"
+  },
+  "Purva Phalguni": {
+    "meaning": "Pleasure, creativity, relaxation, romance.",
+    "ruling_planet": "Venus",
+    "traits": "Creative, indulgent, charming, love of arts.",
+    "symbol": "Front legs of bed or hammock"
+  },
+  "Uttara Phalguni": {
+    "meaning": "Service, patronage, duty, social contracts.",
+    "ruling_planet": "Sun",
+    "traits": "Helpful, responsible, organised, popular.",
+    "symbol": "Back legs of bed"
+  },
+  "Hasta": {
+    "meaning": "Skilled hands, dexterity, craftsmanship.",
+    "ruling_planet": "Moon",
+    "traits": "Clever, practical, skilled, humorous.",
+    "symbol": "Open hand or fist"
+  },
+  "Chitra": {
+    "meaning": "Brilliant, creative, glamorous, architectural.",
+    "ruling_planet": "Mars",
+    "traits": "Artistic, independent, attractive, inventive.",
+    "symbol": "Bright jewel or pearl"
+  },
+  "Swati": {
+    "meaning": "Independent, free, scattered, wind-like.",
+    "ruling_planet": "Rahu",
+    "traits": "Flexible, diplomatic, business-minded.",
+    "symbol": "Sword or sprouting shoot"
+  },
+  "Vishakha": {
+    "meaning": "Fork in path, goal-oriented, determined.",
+    "ruling_planet": "Jupiter",
+    "traits": "Ambitious, focused, transformative, spiritual.",
+    "symbol": "Triumphal arch"
+  },
+  "Anuradha": {
+    "meaning": "Devotion, friendship, success through cooperation.",
+    "ruling_planet": "Saturn",
+    "traits": "Devoted, sociable, organized, loyal.",
+    "symbol": "Lotus flower"
+  },
+  "Jyeshtha": {
+    "meaning": "Elder, chief, protective, eldest star.",
+    "ruling_planet": "Mercury",
+    "traits": "Responsible, protective, leadership, complex emotions.",
+    "symbol": "Circular amulet"
+  },
+  "Mula": {
+    "meaning": "Root, foundation, destruction for rebirth.",
+    "ruling_planet": "Ketu",
+    "traits": "Investigative, philosophical, destructive-constructive.",
+    "symbol": "Tied bunch of roots"
+  },
+  "Purva Ashadha": {
+    "meaning": "Invincible, early victory, water energy.",
+    "ruling_planet": "Venus",
+    "traits": "Proud, philosophical, persuasive, energetic.",
+    "symbol": "Elephant tusk or fan"
+  },
+  "Uttara Ashadha": {
+    "meaning": "Later victory, universal, victory after patience.",
+    "ruling_planet": "Sun",
+    "traits": "Responsible, serious, patient, achiever.",
+    "symbol": "Elephant tusk"
+  },
+  "Shravana": {
+    "meaning": "Listening, learning, connection.",
+    "ruling_planet": "Moon",
+    "traits": "Knowledgeable, perceptive, preservation of wisdom.",
+    "symbol": "Three footprints or ear"
+  },
+  "Dhanishtha": {
+    "meaning": "Wealth, music, fame, abundance.",
+    "ruling_planet": "Mars",
+    "traits": "Ambitious, musical, wealthy, strong.",
+    "symbol": "Drum or flute"
+  },
+  "Shatabhisha": {
+    "meaning": "Hundred healers, mystical, hidden.",
+    "ruling_planet": "Rahu",
+    "traits": "Secretive, healing, independent, scientific.",
+    "symbol": "Empty circle"
+  },
+  "Purva Bhadrapada": {
+    "meaning": "Scorching, intense, transformative.",
+    "ruling_planet": "Jupiter",
+    "traits": "Intense, passionate, idealistic, humanitarian.",
+    "symbol": "Front legs of funeral cot"
+  },
+  "Uttara Bhadrapada": {
+    "meaning": "Warrior star, wisdom, depth.",
+    "ruling_planet": "Saturn",
+    "traits": "Wise, compassionate, stable, spiritual.",
+    "symbol": "Back legs of funeral cot"
+  },
+  "Revati": {
+    "meaning": "Wealthy, final, nourishing, prosperous.",
+    "ruling_planet": "Mercury",
+    "traits": "Gentle, artistic, spiritual, humanitarian.",
+    "symbol": "Drum or fish"
+  }
+}

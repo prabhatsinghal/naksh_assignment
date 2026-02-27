@@ -1,0 +1,122 @@
+{
+  "Aries": {
+    "personality": "Bold, energetic, initiator, competitive.",
+    "strengths": "Leadership, courage, action-oriented, optimism.",
+    "challenges": "Impatient, impulsive, short-tempered.",
+    "career": "Thrives in leadership, entrepreneurship, sports, military.",
+    "love": "Passionate and direct in love, needs an equally energetic partner.",
+    "ruling_planet": "Mars",
+    "element": "Fire",
+    "dates": "March 21 - April 19"
+  },
+  "Taurus": {
+    "personality": "Reliable, grounded, loyal, beauty-loving.",
+    "strengths": "Patience, practicality, determination.",
+    "challenges": "Stubbornness, resistance to change.",
+    "career": "Excels in finance, art, agriculture, real estate.",
+    "love": "Deeply loyal, seeks stability and comfort in relationships.",
+    "ruling_planet": "Venus",
+    "element": "Earth",
+    "dates": "April 20 - May 20"
+  },
+  "Gemini": {
+    "personality": "Curious, expressive, adaptable, witty.",
+    "strengths": "Communication, creativity, social intelligence.",
+    "challenges": "Inconsistency, restlessness.",
+    "career": "Thrives in writing, media, sales, teaching.",
+    "love": "Needs intellectual stimulation, loves variety in relationships.",
+    "ruling_planet": "Mercury",
+    "element": "Air",
+    "dates": "May 21 - June 20"
+  },
+  "Cancer": {
+    "personality": "Nurturing, intuitive, emotional, protective.",
+    "strengths": "Empathy, loyalty, creativity, strong intuition.",
+    "challenges": "Moody, overly sensitive, clingy.",
+    "career": "Excellent in healthcare, education, social work, culinary arts.",
+    "love": "Deeply emotional, craves security and emotional bonding.",
+    "ruling_planet": "Moon",
+    "element": "Water",
+    "dates": "June 21 - July 22"
+  },
+  "Leo": {
+    "personality": "Confident, generous, dramatic, warm-hearted.",
+    "strengths": "Leadership, creativity, charisma, loyalty.",
+    "challenges": "Arrogance, stubbornness, need for admiration.",
+    "career": "Shines in entertainment, management, politics, education.",
+    "love": "Romantic and generous, needs admiration and loyalty.",
+    "ruling_planet": "Sun",
+    "element": "Fire",
+    "dates": "July 23 - August 22"
+  },
+  "Virgo": {
+    "personality": "Analytical, hardworking, practical, modest.",
+    "strengths": "Attention to detail, reliability, problem-solving.",
+    "challenges": "Overly critical, perfectionism, worry-prone.",
+    "career": "Excels in healthcare, research, accounting, writing.",
+    "love": "Reserved but deeply caring, values reliability in partners.",
+    "ruling_planet": "Mercury",
+    "element": "Earth",
+    "dates": "August 23 - September 22"
+  },
+  "Libra": {
+    "personality": "Diplomatic, charming, fair-minded, social.",
+    "strengths": "Balance, grace, cooperation, idealism.",
+    "challenges": "Indecisive, avoids confrontation, people-pleasing.",
+    "career": "Thrives in law, diplomacy, design, counseling.",
+    "love": "Seeks harmony and balance; romantic and idealistic.",
+    "ruling_planet": "Venus",
+    "element": "Air",
+    "dates": "September 23 - October 22"
+  },
+  "Scorpio": {
+    "personality": "Intense, passionate, resourceful, secretive.",
+    "strengths": "Determination, depth, emotional intelligence, focus.",
+    "challenges": "Jealousy, manipulation, excessive secrecy.",
+    "career": "Excels in research, psychology, detective work, finance.",
+    "love": "Intensely loyal and passionate, values deep emotional connections.",
+    "ruling_planet": "Mars/Pluto",
+    "element": "Water",
+    "dates": "October 23 - November 21"
+  },
+  "Sagittarius": {
+    "personality": "Adventurous, optimistic, philosophical, free-spirited.",
+    "strengths": "Enthusiasm, honesty, curiosity, broad-mindedness.",
+    "challenges": "Tactless, commitment-averse, overconfident.",
+    "career": "Thrives in travel, academia, publishing, sports.",
+    "love": "Freedom-loving, needs an intellectually stimulating partner.",
+    "ruling_planet": "Jupiter",
+    "element": "Fire",
+    "dates": "November 22 - December 21"
+  },
+  "Capricorn": {
+    "personality": "Disciplined, ambitious, responsible, pragmatic.",
+    "strengths": "Perseverance, organization, self-control, wisdom.",
+    "challenges": "Pessimism, stubbornness, excessive work focus.",
+    "career": "Excels in business, administration, engineering, politics.",
+    "love": "Slow to open up but extremely loyal and committed.",
+    "ruling_planet": "Saturn",
+    "element": "Earth",
+    "dates": "December 22 - January 19"
+  },
+  "Aquarius": {
+    "personality": "Innovative, humanitarian, independent, eccentric.",
+    "strengths": "Originality, idealism, intellect, vision.",
+    "challenges": "Aloofness, unpredictability, rebelliousness.",
+    "career": "Thrives in technology, science, social causes, media.",
+    "love": "Values intellectual connection and freedom in relationships.",
+    "ruling_planet": "Saturn/Uranus",
+    "element": "Air",
+    "dates": "January 20 - February 18"
+  },
+  "Pisces": {
+    "personality": "Compassionate, artistic, intuitive, gentle.",
+    "strengths": "Empathy, creativity, spirituality, adaptability.",
+    "challenges": "Escapism, over-sensitivity, difficulty with boundaries.",
+    "career": "Excels in arts, music, spirituality, healthcare.",
+    "love": "Deeply romantic and empathetic, needs emotional security.",
+    "ruling_planet": "Jupiter/Neptune",
+    "element": "Water",
+    "dates": "February 19 - March 20"
+  }
+}

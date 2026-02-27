@@ -1,0 +1,65 @@
+{
+  "Sun": {
+    "general": "Represents identity, ego, self-expression and vitality.",
+    "career": "Sun energizes leadership and visibility in professional life.",
+    "love": "Sun brings warmth, generosity and pride into relationships.",
+    "nature": "benefic",
+    "day": "Sunday"
+  },
+  "Moon": {
+    "general": "Represents emotions, inner world, intuition and nurturing energy.",
+    "career": "Moon influences work environment mood, intuition in decisions.",
+    "love": "Moon governs emotional bonding, sensitivity and nurturing in love.",
+    "nature": "benefic",
+    "day": "Monday"
+  },
+  "Mars": {
+    "general": "Represents ambition, drive, assertiveness and conflict.",
+    "career": "Mars fuels ambition, aggression, and competitive drive at work.",
+    "love": "Mars brings passion and physical attraction but may cause conflicts.",
+    "nature": "malefic",
+    "day": "Tuesday"
+  },
+  "Mercury": {
+    "general": "Represents communication, logic, travel and intelligence.",
+    "career": "Mercury enhances communication, analytical skills and business acumen.",
+    "love": "Mercury governs flirting, conversation and intellectual chemistry.",
+    "nature": "neutral",
+    "day": "Wednesday"
+  },
+  "Jupiter": {
+    "general": "Represents wisdom, growth, fortune and knowledge.",
+    "career": "Jupiter brings expansion, good fortune and wisdom to career endeavors.",
+    "love": "Jupiter promotes generosity, optimism and growth in relationships.",
+    "nature": "benefic",
+    "day": "Thursday"
+  },
+  "Venus": {
+    "general": "Represents love, harmony, relationships and art.",
+    "career": "Venus enhances creativity, networking, charm and artistic abilities.",
+    "love": "Venus directly governs romance, attraction, beauty and harmony in love.",
+    "nature": "benefic",
+    "day": "Friday"
+  },
+  "Saturn": {
+    "general": "Represents discipline, responsibility, boundaries and lessons.",
+    "career": "Saturn rewards hard work over time but may bring delays and tests.",
+    "love": "Saturn teaches commitment and patience but may create emotional distance.",
+    "nature": "malefic",
+    "day": "Saturday"
+  },
+  "Rahu": {
+    "general": "Represents obsession, illusion, worldly desires and sudden changes.",
+    "career": "Rahu brings sudden gains, unconventional paths and foreign connections.",
+    "love": "Rahu creates unusual or obsessive attractions, karmic relationships.",
+    "nature": "malefic",
+    "day": "N/A (shadow planet)"
+  },
+  "Ketu": {
+    "general": "Represents spirituality, detachment, past karma and liberation.",
+    "career": "Ketu brings detachment from material success, focus on inner work.",
+    "love": "Ketu creates karmic separations or deeply spiritual partnerships.",
+    "nature": "malefic",
+    "day": "N/A (shadow planet)"
+  }
+}
